@@ -1,7 +1,5 @@
 package com.lebk.webstore.domain;
 
-import java.math.BigDecimal;
-
 public class Customer {
 
 	private String customerId;
